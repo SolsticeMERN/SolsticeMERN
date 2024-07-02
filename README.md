@@ -41,7 +41,6 @@
 ### 🌱 I’m exploring - Advance Next JS for Development. 
 ### 👯 I’m looking - To collaborate on open-source projects. 
 ### 🤔 I’m trying - learn web Next JS development. 
-### ⚡ Fun fact - I love making complex origami and can speak 5 languages.
 
 
 <br />
